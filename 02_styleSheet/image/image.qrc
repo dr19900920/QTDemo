@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>大日历图标.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>大日历图标.png</file>
+    </qresource>
+</RCC>
